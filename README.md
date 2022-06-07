@@ -6,7 +6,7 @@ Our mesh-free method is based upon the radial basis functions (RBF) and we model
 
 Please see:
 
-Lee, E. J., Wang, W., **Chen, P.**, Jiao, Z., Gong, Y., Mu, D., & Liao, W. Y. (2022). Mesh-free simulation of two-phase fluid flow in porous media based on the shock-fitting method. Journal of Petroleum Science and Engineering, 110637.
+Lee, E. J., Wang, W., **Chen, P.**, Jiao, Z., Gong, Y., Mu, D., & Liao, W. Y. (2022). Mesh-free simulation of two-phase fluid flow in porous media based on the shock-fitting method. *Journal of Petroleum Science and Engineering*, 110637.
 
 ### ToDo
 1. More detailed documentation
